@@ -4,3 +4,4 @@ theme:
 
 nav:
   - Home: "getting-started.md"
+  - Training: "training.md"
