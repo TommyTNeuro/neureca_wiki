@@ -1,0 +1,6 @@
+site_name: Neureca Wiki
+theme: 
+  name: material
+
+nav:
+  - Home: "getting-started.md"
