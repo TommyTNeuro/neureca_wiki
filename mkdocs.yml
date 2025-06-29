@@ -4,4 +4,11 @@ theme:
 
 nav:
   - Home: "getting-started.md"
-  - Training: "training.md"
+  - Resources: 
+    - Training: "training.md"
+  - Standard Operating Procedures :
+    - Nameing Conventions : "naming_conventions.md"
+    - Data Management: "data_management.md"
+  - Extras:
+    - Support: "support.md"
+    - Tips : "tips.md"
