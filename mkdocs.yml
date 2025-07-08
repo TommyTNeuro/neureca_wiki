@@ -3,7 +3,7 @@ theme:
   name: material
 
 nav:
-  - Home: "getting-started.md"
+  - Home: "index.md"
   - Resources: 
     - Training: "training.md"
   - Standard Operating Procedures :

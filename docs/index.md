@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# Getting Started
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Welcome to neureca lab, this is a lab located at the CHBH in University of Birmingham. For more information on the lab please visit the [neureca website](https://www.neureca.org/). The purpose of this page is to provide helpful information you may need while working in this lab, whether you're an undergraduate, postgraduate or even an intern.
